@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
-slug: /
+slug: /dannystats/tests
+title: dannystats.tests
 ---
 
-# UHSMforS Docs
+# Statistical Tests
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
