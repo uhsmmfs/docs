@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-slug: /dannystats
-title: DannyStats
+slug: /guide
+title: Guide
 ---
 
-# DannyStats Documentation
+# DannyStats Guide
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

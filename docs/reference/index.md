@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
-slug: /
-title: Start Here
+sidebar_position: 2
+slug: /reference
+title: Reference
 ---
 
-# UHSMforS Docs
+# DannyStats Reference
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
