@@ -1,8 +1,8 @@
 ---
-title: Reference
+title: set_sd_significance
 ---
 
-# DannyStats Reference
+### dannystats.tests.set_sd_significance(*significance_value = 0.05*)
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

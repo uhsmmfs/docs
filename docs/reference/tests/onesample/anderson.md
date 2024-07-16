@@ -1,8 +1,9 @@
 ---
-title: Reference
+sidebar_position: 5
+title: anderson
 ---
 
-# DannyStats Reference
+# dannystats.tests.anderson
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

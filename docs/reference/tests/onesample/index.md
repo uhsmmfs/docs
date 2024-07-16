@@ -1,8 +1,9 @@
 ---
-title: Reference
+sidebar_position: 1
+title: One Sample Tests
 ---
 
-# DannyStats Reference
+# One Sample Tests
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

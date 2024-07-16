@@ -1,8 +1,9 @@
 ---
-title: Reference
+sidebar_position: 2
+title: test_normality
 ---
 
-# DannyStats Reference
+### dannystats.tests.test_normality(*sample*)
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

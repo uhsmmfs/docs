@@ -1,8 +1,9 @@
 ---
-title: Reference
+sidebar_position: 6
+title: d_agostino
 ---
 
-# DannyStats Reference
+# dannystats.tests.d_agostino
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
