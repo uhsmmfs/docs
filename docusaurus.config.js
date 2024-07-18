@@ -79,8 +79,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} UHS Math Modeling for Society Club. Built with Docusaurus.`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: prismThemes.vsLight,
+        darkTheme: prismThemes.vsDark,
       },
     }),
 };

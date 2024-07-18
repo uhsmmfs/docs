@@ -1,10 +1,20 @@
 ---
-title: set_sd_significance
+sidebar_position: 1
+title: set_significance
 ---
 
-### dannystats.tests.set_sd_significance(*significance_value = 0.05*)
+# dannystats.tests.set_significance {#tests.set_significance}
 
-Let's discover **Docusaurus in less than 5 minutes**.
+```python
+tests.set_significance(significance_level = 0.05)
+```
+[[source]](https://github.com/uhsmmfs/DannyStats/blob/main/dannystats/tests.py#L7-L19)
+
+**Parameters**
+
+| Name | Type | Description |
+| ---- | ---- | ----------- |
+| `significance_value` | float | The desired significance level |
 
 ## Getting Started
 

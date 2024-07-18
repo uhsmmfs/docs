@@ -1,8 +1,9 @@
 ---
-title: set_significance
+sidebar_position: 2
+title: set_sd_significance
 ---
 
-### dannystats.tests.set_significance(*significance_value = 0.05*)
+### dannystats.tests.set_sd_significance(*significance_value = 0.05*)
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
